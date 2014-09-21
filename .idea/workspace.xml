@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c0797a4-d343-42f5-b1fc-3474fe1b78e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wait-notify/src/example1/CoffeeMachine.java" afterPath="$PROJECT_DIR$/wait-notify/src/example1/CoffeeMachine.java" />
-    </list>
+    <list default="true" id="7c0797a4-d343-42f5-b1fc-3474fe1b78e2" name="Default" comment="" />
     <ignored path="coffee-machine.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
