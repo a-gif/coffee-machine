@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/coffee-machine.iml" filepath="$PROJECT_DIR$/coffee-machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-states/thread-states.iml" filepath="$PROJECT_DIR$/thread-states/thread-states.iml" />
       <module fileurl="file://$PROJECT_DIR$/wait-notify/wait-notify.iml" filepath="$PROJECT_DIR$/wait-notify/wait-notify.iml" />
     </modules>
   </component>
