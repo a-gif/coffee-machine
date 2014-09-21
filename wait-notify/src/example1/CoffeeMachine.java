@@ -35,8 +35,8 @@ public class CoffeeMachine extends Thread{
                 Thread.sleep(10000);
             }
             catch(InterruptedException ie) {
-            // its okay to ignore this exception
-            // since we're not using thread interrupt mechanism
+                // its okay to ignore this exception
+                // since we're not using thread interrupt mechanism
                 ie.printStackTrace();
             }
         }
