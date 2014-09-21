@@ -38,8 +38,8 @@
       <file leaf-file-name="CoffeeMachine.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wait-notify/src/example1/CoffeeMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7559055" vertical-offset="90" max-vertical-offset="750">
-              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.16535433" vertical-offset="0" max-vertical-offset="750">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -460,8 +460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wait-notify/src/example1/CoffeeMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7559055" vertical-offset="90" max-vertical-offset="750">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.16535433" vertical-offset="0" max-vertical-offset="750">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding />
         </state>
       </provider>

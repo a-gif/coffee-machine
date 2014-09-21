@@ -5,7 +5,7 @@ package example1;
 // When the waiter asks the coffee machine to make a coffee again,
 // it starts all over again, and this process keeps goes on . . .
 public class CoffeeMachine extends Thread{
-    static String   coffeeMade = null;
+    static String coffeeMade = null;
     static final Object lock = new Object();
     private static int coffeeNumber = 1;
     void makeCoffee(){
